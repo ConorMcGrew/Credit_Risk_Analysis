@@ -13,48 +13,71 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ## Results: 
 
+
+
+
 - RandomOverSampler
 
-<img width="141" alt="Screen Shot 2021-07-11 at 10 12 01 PM" src="https://user-images.githubusercontent.com/80495710/125220633-1083a700-e295-11eb-80b9-7a16e70bc4f2.png">
+<img width="397" alt="Screen Shot 2021-07-11 at 10 17 40 PM" src="https://user-images.githubusercontent.com/80495710/125221176-dc5cb600-e295-11eb-9493-7b5b6754e322.png">
+
 
   - balanced accuracy score: 
   - recall score(TPR):
   - precision score:
 
+
+
+
 - SMOTE
 
-<img width="138" alt="Screen Shot 2021-07-11 at 10 12 36 PM" src="https://user-images.githubusercontent.com/80495710/125220687-23967700-e295-11eb-832d-6a419bee4486.png">
+<img width="402" alt="Screen Shot 2021-07-11 at 10 18 26 PM" src="https://user-images.githubusercontent.com/80495710/125221233-eed6ef80-e295-11eb-9c60-bce128c9077c.png">
+
 
   - balanced accuracy score: 
   - recall score:
   - precision score:
+
+
+
 
 - ClusterCentroids
 
-<img width="133" alt="Screen Shot 2021-07-11 at 10 13 49 PM" src="https://user-images.githubusercontent.com/80495710/125220880-5476ac00-e295-11eb-9759-5a493188ecda.png">
+<img width="397" alt="Screen Shot 2021-07-11 at 10 18 53 PM" src="https://user-images.githubusercontent.com/80495710/125221279-ff876580-e295-11eb-8e6e-3d285859bbca.png">
+
 
   - balanced accuracy score: 
   - recall score:
   - precision score:
+
+
+
 
 - SMOTEENN
 
-<img width="135" alt="Screen Shot 2021-07-11 at 10 14 34 PM" src="https://user-images.githubusercontent.com/80495710/125220930-67897c00-e295-11eb-8e89-cda683978bba.png">
+<img width="401" alt="Screen Shot 2021-07-11 at 10 19 23 PM" src="https://user-images.githubusercontent.com/80495710/125221327-12019f00-e296-11eb-9d62-c0dce15147fb.png">
+
 
   - balanced accuracy score: 
   - recall score:
   - precision score:
+
+
+
 - BalancedRandomForestClassifier
 
-<img width="136" alt="Screen Shot 2021-07-11 at 10 09 52 PM" src="https://user-images.githubusercontent.com/80495710/125220474-c8648480-e294-11eb-82a8-39bc7de01fa7.png">
+<img width="318" alt="Screen Shot 2021-07-11 at 10 20 16 PM" src="https://user-images.githubusercontent.com/80495710/125221482-407f7a00-e296-11eb-9068-7157a29fd21b.png">
+
 
   - balanced accuracy score: 
   - recall score:
   - precision score:
+
+
 
 - EasyEnsembleClassifier
 
-<img width="141" alt="Screen Shot 2021-07-11 at 10 10 47 PM" src="https://user-images.githubusercontent.com/80495710/125220517-e16d3580-e294-11eb-9830-9640bd9228cc.png">
+<img width="320" alt="Screen Shot 2021-07-11 at 10 20 31 PM" src="https://user-images.githubusercontent.com/80495710/125221494-44130100-e296-11eb-9710-bc7952933abc.png">
+
 
   - balanced accuracy score: 
   - recall score:
