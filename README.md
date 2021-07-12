@@ -15,7 +15,7 @@ Recall score describes how many people who actually have low or high credit are 
 Precision tells us how reliable the positive classification of low or high credit risk is. For each, we are quite confident in the clasification of the low risk credit individuals (Proportion of positives that are correct). 
 
 
-- RandomOverSampler
+### RandomOverSampler
 
 <img width="397" alt="Screen Shot 2021-07-11 at 10 17 40 PM" src="https://user-images.githubusercontent.com/80495710/125221176-dc5cb600-e295-11eb-9493-7b5b6754e322.png">
 
@@ -27,7 +27,7 @@ Precision tells us how reliable the positive classification of low or high credi
 
 
 
-- SMOTE
+### SMOTE
 
 <img width="402" alt="Screen Shot 2021-07-11 at 10 18 26 PM" src="https://user-images.githubusercontent.com/80495710/125221233-eed6ef80-e295-11eb-9c60-bce128c9077c.png">
 
@@ -39,7 +39,7 @@ Precision tells us how reliable the positive classification of low or high credi
 
 
 
-- ClusterCentroids
+### ClusterCentroids
 
 <img width="397" alt="Screen Shot 2021-07-11 at 10 18 53 PM" src="https://user-images.githubusercontent.com/80495710/125221279-ff876580-e295-11eb-8e6e-3d285859bbca.png">
 
@@ -52,7 +52,7 @@ Precision tells us how reliable the positive classification of low or high credi
 
 
 
-- SMOTEENN
+### SMOTEENN
 
 <img width="401" alt="Screen Shot 2021-07-11 at 10 19 23 PM" src="https://user-images.githubusercontent.com/80495710/125221327-12019f00-e296-11eb-9d62-c0dce15147fb.png">
 
@@ -63,7 +63,7 @@ Precision tells us how reliable the positive classification of low or high credi
 
 
 
-- BalancedRandomForestClassifier
+### BalancedRandomForestClassifier
 
 <img width="318" alt="Screen Shot 2021-07-11 at 10 20 16 PM" src="https://user-images.githubusercontent.com/80495710/125221482-407f7a00-e296-11eb-9068-7157a29fd21b.png">
 
@@ -74,7 +74,7 @@ Precision tells us how reliable the positive classification of low or high credi
 
 
 
-- EasyEnsembleClassifier
+### EasyEnsembleClassifier
 
 <img width="320" alt="Screen Shot 2021-07-11 at 10 20 31 PM" src="https://user-images.githubusercontent.com/80495710/125221494-44130100-e296-11eb-9710-bc7952933abc.png">
 
