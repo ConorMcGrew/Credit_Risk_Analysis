@@ -13,7 +13,11 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ## Results: 
 
+Balanced Accuracy Score is how close the predicted number of people to be in either credit clasification is to the *true* number of people in that classification. 
 
+Recall score describes how many people who actually have low or high credit are correctly classified. Each of them is over 0.6, but the BalancedRandomForestClassifier and EasyEnsembleClassifier each had recall scores between 0.7 and 0.9 (Proportion of positives that are picked up). 
+
+Precision tells us how reliable the positive classification of low or high credit risk is. For each, we are quite confident in the clasification of the low risk credit individuals (Proportion of positives that are correct). 
 
 
 - RandomOverSampler
